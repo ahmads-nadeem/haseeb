@@ -36,7 +36,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-neutral-200 pt-6 sm:mt-10">
           <p className="text-sm text-neutral-500">
-            © {new Date().getFullYear()} Sabr Media Co. All rights reserved.
+            © 2026 Sabr Media Co. All rights reserved.
           </p>
         </div>
       </div>
