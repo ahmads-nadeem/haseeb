@@ -55,7 +55,7 @@ export default function Header() {
               key={n.label}
               href={n.href}
               onClick={() => setOpen(false)}
-              className="rounded-lg px-3 py-3 font-medium hover:bg-yellow-100"
+              className="text-black rounded-lg px-3 py-3 font-medium hover:bg-yellow-100"
             >
               {n.label}
             </a>
